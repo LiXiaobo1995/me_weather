@@ -1,0 +1,32 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/about/about"
+  ],
+
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#03a9f4",
+    "navigationBarTitleText": "me天气",
+    "navigationBarTextStyle": "#000000",
+    "backgroundColor": "#03a9f4"
+  },
+  "tabBar": {
+    "selectedColor": "#03a9f4",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "天气",
+        "iconPath": "icons/weather.png",
+        "selectedIconPath": "icons/weather.png"
+      },
+      {
+        "pagePath": "pages/about/about",
+        "text": "关于",
+        "iconPath": "icons/about.png",
+        "selectedIconPath": "icons/about.png"
+      }
+    ]
+  }
+}
+
