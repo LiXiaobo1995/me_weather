@@ -3,7 +3,7 @@
     "description": "--------------------------------------",
     "homepage": "https://consumer.huawei.com/cn/support/hisuite/",
     "license": "MIT",
-    "url": "https://sourl.cn/UYWUG3#/dl.7z",
+    "url": "https://raw.githubusercontent.com/LiXiaobo1995/software/main/hisuite_11.0.0.360.7z#/dl.7z",
     "hash": "27075B3D703AE2368DF497C416BE4616ECAF9AAF6E906A2B316DAB6EEEF5B5C3",
     "bin": "hisuite.exe",
     "shortcuts": [
