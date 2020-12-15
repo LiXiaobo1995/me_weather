@@ -1,0 +1,20 @@
+{
+    "version": "11.0.0.360",
+    "description": "--------------------------------------",
+    "homepage": "https://consumer.huawei.com/cn/support/hisuite/",
+    "license": "MIT",
+    "url": "https://sourl.cn/UYWUG3#/dl.7z",
+    "hash": "27075B3D703AE2368DF497C416BE4616ECAF9AAF6E906A2B316DAB6EEEF5B5C3",
+    "bin": "hisuite.exe",
+    "shortcuts": [
+        [
+            "hisuite.exe",
+            "华为手机助手"
+        ]
+    ],
+    "post_install": [
+        "Remove-Item \"$dir\\`$PLUGINSDIR\" -Force -Recurse",
+        "Remove-Item \"$dir\\`$_28_\" -Force -Recurse",
+        "Remove-Item \"$dir\\`$TEMP\" -Force -Recurse"
+    ]
+}
