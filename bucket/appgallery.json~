@@ -1,0 +1,15 @@
+{
+    "version": "0.1",
+    "description": "--------------------------------------",
+    "homepage": "https://consumer.huawei.com/",
+    "license": "MIT",
+    "url": "https://raw.githubusercontent.com/LiXiaobo1995/software/main/AppGallery.exe#/dl.7z",
+    "hash": "44e865a1d32ebeacc4f403ac3df8d537921947cc576d5b1ff491e7dcc3685129",
+    "bin": "AppGallery.exe",
+    "shortcuts": [
+        [
+            "AppGallery.exe",
+            "华为应用市场"
+        ]
+    ]
+}
