@@ -8,7 +8,7 @@
         "script": [
             "Remove-Item \"$dir\\wemeetapp_new.exe\" -Force",
             "Rename-Item \"$dir\\`$_7_\" \"$dir\\$version\"",
-            "Remove-Item \"$dir\\`$PROGRAMFILES\",\"$dir\\`$WINDIR\",\"$dir\\`$PLUGINSDIR\",\"$dir\\`$TEMP\" -Force -Recurse"
+            "Remove-Item \"$dir\\`$WINDIR\",\"$dir\\`$PLUGINSDIR\",\"$dir\\`$TEMP\" -Force -Recurse"
         ]
     },
     "bin": "wemeetapp.exe",
