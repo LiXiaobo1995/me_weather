@@ -1,8 +1,8 @@
 {
     "homepage": "https://meeting.tencent.com/",
     "license": "unknown",
-    "version": "2.7.6.415",
-    "url": "https://updatecdn.meeting.qq.com/1f758f02a31bfe2b783b9838f6511c33/TencentMeeting_1410000359_2.7.6.415.publish.exe#dl.7z",
+    "version": "2.10.6.400",
+    "url": "https://updatecdn.meeting.qq.com/99ab5842a25ca73f616ed9883678cf19/TencentMeeting_0300000000_2.10.6.400.publish.exe#dl.7z",
     "hash": "b5ffefb308ff81f369c37b607ac0feb86ce277dc2e05aee260462eae40ebf0fb",
     "installer": {
         "script": [
