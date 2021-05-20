@@ -6,7 +6,6 @@
     "hash": "94384ce974e1c15700f916b793d5253173f6d88764bb5e9e26e8c42e015e6568",
     "installer": {
         "script": [
-            "Remove-Item \"$dir\\$2\" -Force",
             "Remove-Item \"$dir\\`$PLUGINSDIR\",\"$dir\\`$TEMP\" -Force -Recurse"
         ]
     },
