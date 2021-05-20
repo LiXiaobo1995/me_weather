@@ -1,0 +1,14 @@
+{
+    "homepage": "https://wenku.baidu.com/pcactivity/landingPage",
+    "license": "unknown",
+    "version": "1.1.2",
+    "url": "https://edu-wenku.bdimg.com/v1/pcclient/upgrade/%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93%20Setup%201.1.2.exe#dl.7z",
+    "hash": "3d394c5cb664c68d60771d8187827d4f01fe9cd65ec71a89afc09b7ea05813a4",
+    "bin": "baiduwenku.exe",
+    "shortcuts": [
+        [
+            "baiduwenku.exe",
+            "百度文库"
+        ]
+    ]
+}
