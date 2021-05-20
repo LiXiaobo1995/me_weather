@@ -4,10 +4,16 @@
     "version": "1.1.2",
     "url": "https://edu-wenku.bdimg.com/v1/pcclient/upgrade/%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93%20Setup%201.1.2.exe#dl.7z",
     "hash": "94384ce974e1c15700f916b793d5253173f6d88764bb5e9e26e8c42e015e6568",
-    "bin": "baiduwenku.exe",
+    "installer": {
+        "script": [
+            "Remove-Item \"$dir\\$2\" -Force",
+            "Remove-Item \"$dir\\`$PLUGINSDIR\",\"$dir\\`$TEMP\" -Force -Recurse"
+        ]
+    },
+    "bin": "百度文库.exe",
     "shortcuts": [
         [
-            "baiduwenku.exe",
+            "百度文库.exe",
             "百度文库"
         ]
     ]
