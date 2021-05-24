@@ -1,0 +1,15 @@
+{
+    "version": "1.0.31",
+    "description": "------------------------------",
+    "homepage": "https://www.mi.com/service/bijiben/drivers/gaming-mouse",
+    "license": "UnKnown",
+    "url": "https://raw.githubusercontent.com/LiXiaobo1995/software/main/xmind2021.7z#/dl.7z",
+    "hash": "8f2223b616ec465fad6bbc3a8cab08b1c6100f68d0771ae3cd12b062b768a6b9",
+    "bin": "XMind.exe",
+    "shortcuts": [
+        [
+            "XMind.exe",
+            "XMind"
+        ]
+    ]
+}
