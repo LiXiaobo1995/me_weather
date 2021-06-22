@@ -3,7 +3,7 @@
     "license": "unknown",
     "version": "2.13.4.410",
     "url": "https://updatecdn.meeting.qq.com/38415acce91cc1320f168b2b95888fca/TencentMeeting_0300000000_2.13.4.410.publish.exe#dl.7z",
-    "hash": "3d394c5cb664c68d60771d8187827d4f01fe9cd65ec71a89afc09b7ea05813a4",
+    "hash": "813b8a58f2ad04982542f2cca5baa213859c988d10b4f0065d563b998f891a61",
     "installer": {
         "script": [
             "Remove-Item \"$dir\\wemeetapp_new.exe\" -Force",
